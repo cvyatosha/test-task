@@ -1,0 +1,18 @@
+.add-post-btn{
+    padding: 20px;
+    text-align: center;
+    color: white;
+    background: #212529;
+    border-radius: 5px;
+    transition: .1s;
+    cursor: pointer;
+}
+
+.add-post-btn:hover{
+
+    background: #0085A1;
+}
+
+.new-post-form form{
+    /* display: none; */
+}
